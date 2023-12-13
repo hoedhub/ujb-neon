@@ -1,0 +1,12 @@
+email: ungguljayabeton@outlook.com
+password: U.Je.Be@outlook
+github password: U.Je.3e@github
+neon:{
+	password: U.Je.Be@ne0n,
+	connectionString: postgresql://ungguljayabeton:k2iRtnND5edB@ep-aged-bar-80775705.ap-southeast-1.aws.neon.tech/ungguljayabeton?sslmode=require,
+	pooledConnectionString: postgresql://ungguljayabeton:k2iRtnND5edB@ep-aged-bar-80775705-pooler.ap-southeast-1.aws.neon.tech/ungguljayabeton?sslmode=require,
+	prisma:{
+		DATABASE_URL:"postgresql://ungguljayabeton:k2iRtnND5edB@ep-aged-bar-80775705-pooler.ap-southeast-1.aws.neon.tech/ungguljayabeton?sslmode=require&pgbouncer=true&connect_timeout=10&connection_limit=20&pool_timeout=15",
+		DIRECT_URL:"postgresql://ungguljayabeton:k2iRtnND5edB@ep-aged-bar-80775705.ap-southeast-1.aws.neon.tech/ungguljayabeton?sslmode=require"
+	}
+}
